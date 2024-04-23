@@ -1,0 +1,14 @@
+C:\Users\souro\OneDrive\Desktop\1279472 Nazmul\Project\Customer Bank Information\bin\Debug\Customer Bank Information.exe.config
+C:\Users\souro\OneDrive\Desktop\1279472 Nazmul\Project\Customer Bank Information\bin\Debug\Customer Bank Information.exe
+C:\Users\souro\OneDrive\Desktop\1279472 Nazmul\Project\Customer Bank Information\bin\Debug\Customer Bank Information.pdb
+C:\Users\souro\OneDrive\Desktop\1279472 Nazmul\Project\Customer Bank Information\obj\Debug\Customer Bank Information.csproj.AssemblyReference.cache
+C:\Users\souro\OneDrive\Desktop\1279472 Nazmul\Project\Customer Bank Information\obj\Debug\Customer Bank Information.csproj.CoreCompileInputs.cache
+C:\Users\souro\OneDrive\Desktop\1279472 Nazmul\Project\Customer Bank Information\obj\Debug\Customer Bank Information.exe
+C:\Users\souro\OneDrive\Desktop\1279472 Nazmul\Project\Customer Bank Information\obj\Debug\Customer Bank Information.pdb
+E:\C# Module\C# Project\Customer Bank Information\bin\Debug\Customer Bank Information.exe.config
+E:\C# Module\C# Project\Customer Bank Information\bin\Debug\Customer Bank Information.exe
+E:\C# Module\C# Project\Customer Bank Information\bin\Debug\Customer Bank Information.pdb
+E:\C# Module\C# Project\Customer Bank Information\obj\Debug\Customer Bank Information.csproj.AssemblyReference.cache
+E:\C# Module\C# Project\Customer Bank Information\obj\Debug\Customer Bank Information.csproj.CoreCompileInputs.cache
+E:\C# Module\C# Project\Customer Bank Information\obj\Debug\Customer Bank Information.exe
+E:\C# Module\C# Project\Customer Bank Information\obj\Debug\Customer Bank Information.pdb
